@@ -23,5 +23,3 @@ Most of my development is done in Linux-based environments (including WSL), but 
 
 [![PyPIstale](https://img.shields.io/static/v1?label=Python&message=PyPIstale&color=3776AB&logo=python&logoColor=white)](https://github.com/eemim/pypistale) - Get information about your project's dependency updates and lifecycle.
 
-[![AI-dungeon](https://img.shields.io/static/v1?label=Python&message=AI-dungeon&color=D22B2B&logo=python&logoColor=white)](https://github.com/eemim/ai-dungeon-master) - Groq powered, text-based dungeon crawler (**WIP**).
-
