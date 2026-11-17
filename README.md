@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m an IT student at the beginning of my software development journey.
+I am a recent graduate with a Bachelor’s degree in Software Development at the beginning of my IT journey.
 Most of the repositories here are school projects, small experiments, and a few personal learning projects.
 
 ## Focus & Experience
